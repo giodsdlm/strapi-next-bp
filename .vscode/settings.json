@@ -2,5 +2,7 @@
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "prettier.semi": false,
-  "prettier.configPath": ".prettierrc.json"
+  "prettier.configPath": ".prettierrc.json",
+  "javascript.format.semicolons": "remove",
+  "typescript.format.semicolons": "remove"
 }
